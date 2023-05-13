@@ -1,0 +1,19 @@
+diff --git a/lokomotywa.txt b/lokomotywa.txt
+index 117f681..02427bc 100644
+--- a/lokomotywa.txt
++++ b/lokomotywa.txt
+@@ -3,9 +3,9 @@ Ciezka, ogromna i pot z niej splywa:
+ Tlusta oliwa.
+ Stoi i sapie, dyszy i dmucha,
+ Zar z rozgrzanego jej brzucha bucha:
+-Buch - jak goraco!
+-Uch - jak goraco!
+-Puff - jak goraco!
+-Uff - jak goraco!
++Buch - jak zimno!
++Uch - jak zimno!
++Puff - jak zimno!
++Uff - jak zimno!
+ Juz ledwo sapie, juz ledwo zipie,
+ A jeszcze palacz wegiel w nia sypie.
+\ No newline at end of file
