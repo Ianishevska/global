@@ -1,0 +1,11 @@
+commit 93b2497b47ed0676c3243f7b816ba7b49f9a3e33
+Author: Daria <dasha2020404@gmail.com>
+Date:   Sat May 13 11:08:44 2023 +0200
+
+    ignorowanie .docx
+
+commit d993b3d3cf84fb3a5fa07f2cb6bcf4dff5c02efb
+Author: Daria <dasha2020404@gmail.com>
+Date:   Sat May 13 10:55:41 2023 +0200
+
+    ciuchcia
